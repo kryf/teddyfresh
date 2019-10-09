@@ -1,0 +1,54 @@
+.website-background{
+  background-color: #efefef;
+}
+.topmenu{
+  background-color: #f2ed7c;
+  height: 40px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left: 555px;
+}
+
+.ui.borderless.menu{
+  box-shadow: none;
+  border: none;
+}
+
+.ui.three.item.borderless.menu{
+  background-color: #efefef;
+  font-size: large;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.ui.borderless.footer.menu{
+  background-color: #717db8;
+}
+
+.social{
+  color: white;
+}
+
+.ui.centered.grid.description.container{
+  font-size: medium;
+}
+
+.ui.four.column.price.grid{
+  padding-bottom: 50px;
+}
+
+.ui.centered.grid.price.container{
+  color: #6a6a6a;
+}
+
+.footer-background{
+  background-color: #717db8;
+  color: #ffffff;
+  padding-top: 80px;
+  padding-bottom: 30px;
+  font-size: medium;
+}
+
+.footer.item{
+  font-size: small;
+}
